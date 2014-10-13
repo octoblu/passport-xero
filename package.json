@@ -1,7 +1,7 @@
 {
   "name": "passport-xero",
-  "version": "1.0.0",
-  "description": "Smartsheet authentication strategy for Passport.",
+  "version": "1.0.0-a",
+  "description": "Xero authentication strategy for Passport.",
   "keywords": [
     "passport",
     "xero",
