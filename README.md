@@ -16,6 +16,7 @@ unobtrusively integrated into any application or framework that supports
 ## Usage
 
 #### Configure Strategy
+    var XeroStrategy = require('passport-xero');
 
     passport.use(new XeroStrategy({
         consumerKey : XERO_CLIENT_KEY,
